@@ -33,7 +33,7 @@ render(){
     return (
 
       <form onSubmit={this.handleSubmit}>
-      Enter your Salary:
+      Enter your salary:
       <input
       type="int"
       name="salary1"
@@ -41,7 +41,7 @@ render(){
       />
       <br>
       </br>
-      Enter your partner's Salary:
+      Enter your partner's salary:
       <input
       type="int"
       name="salary2"
