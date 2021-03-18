@@ -41,7 +41,7 @@ render(){
       />
       <br>
       </br>
-      Enter your Partners Salary:
+      Enter your partner's Salary:
       <input
       type="int"
       name="salary2"
